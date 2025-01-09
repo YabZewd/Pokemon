@@ -1,0 +1,81 @@
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\bin\Debug\net8.0\appsettings.Development.json
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\bin\Debug\net8.0\appsettings.json
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\bin\Debug\net8.0\pokemon.exe
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\bin\Debug\net8.0\pokemon.deps.json
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\bin\Debug\net8.0\pokemon.runtimeconfig.json
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\bin\Debug\net8.0\pokemon.dll
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\bin\Debug\net8.0\pokemon.pdb
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\obj\Debug\net8.0\pokemon.csproj.AssemblyReference.cache
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\obj\Debug\net8.0\pokemon.GeneratedMSBuildEditorConfig.editorconfig
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\obj\Debug\net8.0\pokemon.AssemblyInfoInputs.cache
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\obj\Debug\net8.0\pokemon.AssemblyInfo.cs
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\obj\Debug\net8.0\pokemon.csproj.CoreCompileInputs.cache
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\obj\Debug\net8.0\pokemon.MvcApplicationPartsAssemblyInfo.cs
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\obj\Debug\net8.0\pokemon.MvcApplicationPartsAssemblyInfo.cache
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\obj\Debug\net8.0\staticwebassets.build.json
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\obj\Debug\net8.0\staticwebassets.development.json
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\obj\Debug\net8.0\staticwebassets\msbuild.pokemon.Microsoft.AspNetCore.StaticWebAssets.props
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\obj\Debug\net8.0\staticwebassets\msbuild.build.pokemon.props
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.pokemon.props
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.pokemon.props
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\obj\Debug\net8.0\staticwebassets.pack.json
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\obj\Debug\net8.0\scopedcss\bundle\pokemon.styles.css
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\obj\Debug\net8.0\pokemon.csproj.Up2Date
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\obj\Debug\net8.0\pokemon.dll
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\obj\Debug\net8.0\refint\pokemon.dll
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\obj\Debug\net8.0\pokemon.pdb
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\obj\Debug\net8.0\pokemon.genruntimeconfig.cache
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\obj\Debug\net8.0\ref\pokemon.dll
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\bin\Debug\net8.0\DnsClient.dll
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\bin\Debug\net8.0\MongoDB.Bson.dll
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\bin\Debug\net8.0\MongoDB.Driver.dll
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\bin\Debug\net8.0\SharpCompress.dll
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\bin\Debug\net8.0\Snappier.dll
+E:\school\New folder\year 4\sem 1\Event driven\lab\webapi\pokemon\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\hp\Desktop\pokemon\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hp\Desktop\pokemon\bin\Debug\net8.0\appsettings.json
+C:\Users\hp\Desktop\pokemon\bin\Debug\net8.0\pokemon.staticwebassets.endpoints.json
+C:\Users\hp\Desktop\pokemon\bin\Debug\net8.0\pokemon.exe
+C:\Users\hp\Desktop\pokemon\bin\Debug\net8.0\pokemon.deps.json
+C:\Users\hp\Desktop\pokemon\bin\Debug\net8.0\pokemon.runtimeconfig.json
+C:\Users\hp\Desktop\pokemon\bin\Debug\net8.0\pokemon.dll
+C:\Users\hp\Desktop\pokemon\bin\Debug\net8.0\pokemon.pdb
+C:\Users\hp\Desktop\pokemon\bin\Debug\net8.0\DnsClient.dll
+C:\Users\hp\Desktop\pokemon\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\hp\Desktop\pokemon\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\pokemon\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\hp\Desktop\pokemon\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\hp\Desktop\pokemon\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\hp\Desktop\pokemon\bin\Debug\net8.0\Snappier.dll
+C:\Users\hp\Desktop\pokemon\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\pokemon\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\pokemon\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\pokemon\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\hp\Desktop\pokemon\obj\Debug\net8.0\pokemon.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\pokemon\obj\Debug\net8.0\pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\pokemon\obj\Debug\net8.0\pokemon.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\pokemon\obj\Debug\net8.0\pokemon.AssemblyInfo.cs
+C:\Users\hp\Desktop\pokemon\obj\Debug\net8.0\pokemon.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\pokemon\obj\Debug\net8.0\pokemon.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\pokemon\obj\Debug\net8.0\pokemon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\pokemon\obj\Debug\net8.0\scopedcss\bundle\pokemon.styles.css
+C:\Users\hp\Desktop\pokemon\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hp\Desktop\pokemon\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hp\Desktop\pokemon\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\hp\Desktop\pokemon\obj\Debug\net8.0\staticwebassets\msbuild.pokemon.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\Desktop\pokemon\obj\Debug\net8.0\staticwebassets\msbuild.pokemon.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\hp\Desktop\pokemon\obj\Debug\net8.0\staticwebassets\msbuild.build.pokemon.props
+C:\Users\hp\Desktop\pokemon\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.pokemon.props
+C:\Users\hp\Desktop\pokemon\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.pokemon.props
+C:\Users\hp\Desktop\pokemon\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hp\Desktop\pokemon\obj\Debug\net8.0\pokemon.csproj.Up2Date
+C:\Users\hp\Desktop\pokemon\obj\Debug\net8.0\pokemon.dll
+C:\Users\hp\Desktop\pokemon\obj\Debug\net8.0\refint\pokemon.dll
+C:\Users\hp\Desktop\pokemon\obj\Debug\net8.0\pokemon.pdb
+C:\Users\hp\Desktop\pokemon\obj\Debug\net8.0\pokemon.genruntimeconfig.cache
+C:\Users\hp\Desktop\pokemon\obj\Debug\net8.0\ref\pokemon.dll
