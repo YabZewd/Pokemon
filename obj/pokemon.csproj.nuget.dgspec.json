@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\pokemon\\pokemon.csproj": {}
+    "C:\\Users\\hp\\Desktop\\Pokemon\\pokemon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\pokemon\\pokemon.csproj": {
+    "C:\\Users\\hp\\Desktop\\Pokemon\\pokemon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\pokemon\\pokemon.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Pokemon\\pokemon.csproj",
         "projectName": "pokemon",
-        "projectPath": "C:\\Users\\hp\\Desktop\\pokemon\\pokemon.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\Pokemon\\pokemon.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\pokemon\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\Pokemon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -44,6 +44,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "DotNetEnv": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.11, )"
